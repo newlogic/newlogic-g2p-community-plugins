@@ -1,1 +1,1 @@
-# newlogic-g2p-erp-community-plugins
+# newlogic-g2p-community-plugins
